@@ -169,6 +169,7 @@ export default {
   background: #222;
   height: 100vh;
   display: flex;
+  color: #fff;
 }
 :root{
   --tabs-background: #222;
